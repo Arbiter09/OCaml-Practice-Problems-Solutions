@@ -1,11 +1,10 @@
-````markdown
-### OCaml Practice Problems & Solutions
+# OCaml Practice Problems & Solutions
 
 Welcome to the **OCaml Practice Problems & Solutions** repository! This project provides a collection of OCaml exercises and corresponding solutions to help you sharpen your functional programming skills and gain confidence with the OCaml language.
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
@@ -17,7 +16,7 @@ Welcome to the **OCaml Practice Problems & Solutions** repository! This project 
 
 ---
 
-### Introduction
+## Introduction
 
 OCaml is a powerful functional programming language with features such as type inference, pattern matching, and an advanced type system that make it a great tool for both academic and industrial applications. This repository aims to:
 
@@ -29,7 +28,7 @@ Whether you are a student, hobbyist, or professional developer, these exercises 
 
 ---
 
-### Getting Started
+## Getting Started
 
 ### Install OCaml
 
@@ -37,18 +36,17 @@ You can install OCaml using your system’s package manager, [opam](https://opam
 
 ### Clone the Repository
 
-```bash
+````bash
 git clone https://github.com/Arbiter09/OCaml-Practice-Problems-Solutions.git
 cd OCaml-Practice-Problems-Solutions
-```
-````
 
 ### Running the Solutions
 
 - Launch the OCaml REPL with `ocaml` or use:
   ```bash
   ocaml filename.ml
-  ```
+````
+
 - In many cases, you can also compile solutions to a native or bytecode executable:
   ```bash
   ocamlc filename.ml -o filename
