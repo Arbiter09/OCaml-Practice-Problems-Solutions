@@ -1,5 +1,3 @@
-Here is the **README.md** file ready for you to copy and paste:
-
 ````markdown
 # OCaml Practice Problems & Solutions
 
