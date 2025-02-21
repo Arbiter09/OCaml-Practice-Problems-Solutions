@@ -52,7 +52,3 @@ This repository is licensed under the **MIT License**. Feel free to use the prob
 ---
 
 Happy coding and learning with OCaml! If you find these solutions helpful, please consider giving the repository a ⭐ to show your support.
-
-```
-
-```
