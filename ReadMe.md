@@ -4,18 +4,6 @@ Welcome to the **OCaml Practice Problems & Solutions** repository! This project 
 
 ---
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Repository Structure](#repository-structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Introduction
 
 OCaml is a powerful functional programming language with features such as type inference, pattern matching, and an advanced type system that make it a great tool for both academic and industrial applications. This repository aims to:
