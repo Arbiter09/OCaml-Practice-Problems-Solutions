@@ -1,11 +1,11 @@
 ````markdown
-# OCaml Practice Problems & Solutions
+### OCaml Practice Problems & Solutions
 
 Welcome to the **OCaml Practice Problems & Solutions** repository! This project provides a collection of OCaml exercises and corresponding solutions to help you sharpen your functional programming skills and gain confidence with the OCaml language.
 
 ---
 
-## Table of Contents
+### Table of Contents
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
@@ -17,7 +17,7 @@ Welcome to the **OCaml Practice Problems & Solutions** repository! This project 
 
 ---
 
-## Introduction
+### Introduction
 
 OCaml is a powerful functional programming language with features such as type inference, pattern matching, and an advanced type system that make it a great tool for both academic and industrial applications. This repository aims to:
 
@@ -29,7 +29,7 @@ Whether you are a student, hobbyist, or professional developer, these exercises 
 
 ---
 
-## Getting Started
+### Getting Started
 
 ### Install OCaml
 
